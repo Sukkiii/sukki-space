@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="pulse" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+  </symbol>
+
+  <symbol id="close" viewBox="0 0 24 24">
+    <path d="M6 18L18 6M6 6l12 12" stroke="currentColor" />
+  </symbol>
+
+  <symbol id="arrow-right" viewBox="0 0 24 24">
+    <path d="M5 12h14M13 5l6 7-6 7" stroke="currentColor"/>
+  </symbol>
+</svg>
